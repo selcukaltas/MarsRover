@@ -7,16 +7,6 @@ In order to control a rover, NASA sends a simple string of letters. The possible
 Assume that the square directly North from (x, y) is (x, y+1).
 
 
-## Constants
-- When a Plateau is created, the bottom right co-ordinates are always (0, 0)
-- The square directly North from (x, y) is (x, y + 1)
-- The test input and output is always the same, clean and present, so this doesn't need to be validated
-- motion types Left, right, Move
-
-## Development Environment
-* C# 8.0
-* NUnit
-* .Net Core 3.1
 
 ## Input
 
